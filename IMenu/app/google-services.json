@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072608547071",
+    "project_id": "imenu-12ed7",
+    "storage_bucket": "imenu-12ed7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072608547071:android:1bbb5952051bb56d0dfcca",
+        "android_client_info": {
+          "package_name": "com.tu.paquete"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQALwbcRupNo7htUdod2Or9X4nIfb1XD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
